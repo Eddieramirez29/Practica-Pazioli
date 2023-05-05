@@ -3,9 +3,4 @@ Práctica grupal de maquetado
 
 Guerreros de la maquetación
 
-FranciscoBenítezGarduño
-MiguelAngelMartínezReyna
-JoséAntonioRodriguezMagana
-IvetteAnahídeLeónGonzález
-JesúsEduardoRamírezMorales
-
+FranciscoBenítezGarduño, MiguelAngelMartínezReyna, JoséAntonioRodriguezMagana, IvetteAnahídeLeónGonzález, JesúsEduardoRamírezMorales
